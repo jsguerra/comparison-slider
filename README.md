@@ -1,1 +1,3 @@
-# comparison-slider
+# Comparison Slider
+
+Accessible comparision slider
